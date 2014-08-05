@@ -1,0 +1,17 @@
+{
+  "name": "mocha-extra-shot",
+  "version": "0.0.1",
+  "description": "a way to retry tests",
+  "main": "index.js",
+  "author": "Lenny Martin <leonard.martin@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lennym/mocha-extra-shot"
+  },
+  "peerDependencies": {
+    "mocha": "^1.20.1"
+  },
+  "dependencies": {
+  }
+}
