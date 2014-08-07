@@ -1,6 +1,6 @@
 {
   "name": "mocha-extra-shot",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Allow failing mocha tests to retry",
   "main": "index.js",
   "author": "Lenny Martin <leonard.martin@gmail.com>",
